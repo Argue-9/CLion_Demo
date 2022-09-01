@@ -1,0 +1,3 @@
+D:/selfpractice/CLion_Demo/cmake-build-debug/CMakeFiles/CLion_Demo.elf.dir
+D:/selfpractice/CLion_Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/selfpractice/CLion_Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
